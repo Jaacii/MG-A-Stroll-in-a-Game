@@ -1,0 +1,28 @@
+^  - Konsole öffnen
+
+tgm  - godmode
+tmm1 - Alle Marker für Schnellreisen
+tai - AI Prozesse aus -> Aggressivität Anderer startet nicht
+
+tm - HUD aus -> PROBLEM: Kein schnellreisen oder Spielmenü mehr
+
+toggledetect- ???? [nachsuchen]
+unlock - Türen öffnen [gibt es unlockAll? wäre hilfreich]
+?? - Alle Minen werden deaktiviert
+
+
+Weiteres:
+adv level - Level up
+player.additem 0000432c1 1     - Fatman
+player.additem 00020799 1      - Mini Atombomben
+
+
+
+
+
+
+
+Modding?? Womit?
+
+
+gibt es einen Cinematic/noHUD mod ?

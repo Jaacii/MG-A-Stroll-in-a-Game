@@ -1,0 +1,29 @@
+[Noch nicht getestet)
+
+ghost - Man kann durch Wände gehen
+god - GODmode
+
+HideHUD
+FreeCamera
+Togglesoundeffects
+ShowHUD
+
+Killall
+ToggleshowALS
+
+
+
+
+
+
+
+GiveWeapon ShockGame.GranateLauncher
+" ShockGame.GranateLauncher_FragGranate
+"_RPG
+_StickyGranate
+
+
+
+
+Modding?? Womit??
+Aggression off? Detection off??
