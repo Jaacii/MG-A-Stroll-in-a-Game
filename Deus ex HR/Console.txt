@@ -1,0 +1,27 @@
+Konsole musas reigeschaöltet werden :
+Deus Ex Wikia:
+
+Method 1 (recommended) Edit
+1. Go to "Documents\DeusEx\System" and open "User.ini"
+2. Replace any instances of "Tilde=" with "Tilde=Type"
+3. In-game, you can press Tilde (~) to open the console.
+4. Type in a command and press Enter to execute it. 
+
+
+
+http://deusex.wikia.com/wiki/Deus_Ex_console_commands
+
+god 	Toggles God mode. 
+invisible <0/1> 	Toggles invisibility. 
+ghost 	Enables no-clip mode. 
+amphibious 	Breathe underwater. 
+opensesame 	Unlocks targeted door or panel. 
+
+
+
+
+
+danceparty 	See the unique fourth "ending." 
+allaugs 	All basic augmentations. 
+allskills 	Grants you mastery in every skill.
+allweapons 	Summons all weapons. 
