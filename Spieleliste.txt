@@ -1,23 +1,25 @@
-Assassin's Creed
-Bioshock
-Crysis
-Dark Souls 1
-Deus Ex. Human Revolution
-Fallout
-Far Cry
-Guild Wars 2 
-Half Life
-Mass Effect 
-Metro
-Mirror's Edge
-Ori and the Blind Forest
-Overwatch
-Oxenfree, Firewatch, Journey
-Subnautica
-The Elder Scrolls
-Tomb Raider
-Wolfenstein: The new Order
+					Console?	Mod möglich?		Andere Möglichkeien/Anmerkungen
+Assassin's Creed			?		?
+Bioshock				Ja		?			(Probiere ich aus)
+Crysis					?		?
+Dark Souls 1				Ja		?
+Deus Ex. Human Revolution		Ja		?			Programmdateien ändern für Konsole
+Fallout					Ja		Ja			leicht
+Far Cry					?		?
+Guild Wars 2 				?		?
+Half Life				Ja		Ja			(!)
+Mass Effect 				?		?
+Metro					Ja		?			Evtl Gegner ausschalten nicht möglich
+Mirror's Edge				?		?			(!)	
+Ori and the Blind Forest		?		?
+Overwatch				?		?
+Oxenfree, Firewatch, Journey		?		?			
+Subnautica				ja?		?
+The Elder Scrolls			Ja		Ja			leicht
+Tomb Raider				?		?
+Wolfenstein: The new Order		?		?
 
+(!) - will ich nachrecherchieren
 
 
 Wikitext: (Um nicht extra kucken zu müssen)
