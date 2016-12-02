@@ -1,14 +1,24 @@
 ^  - Konsole öffnen
 
+
+WICHTIG!!!
+Tcai   -> combat AI aus
+Tai -> Allgemein AI aus
+!!
+
+tdetect -> toggle detect off
+
+
+
 tgm  - godmode
 tmm1 - Alle Marker für Schnellreisen
-tai - AI Prozesse aus -> Aggressivität Anderer startet nicht
+
 
 tm - HUD aus -> PROBLEM: Kein schnellreisen oder Spielmenü mehr
 
-toggledetect- ???? [nachsuchen]
+
 unlock - Türen öffnen [gibt es unlockAll? wäre hilfreich]
-?? - Alle Minen werden deaktiviert
+DisableAllMines - Alle Minen werden deaktiviert
 
 
 Weiteres:
@@ -18,11 +28,13 @@ player.additem 00020799 1      - Mini Atombomben
 
 
 
+http://www.cheatcc.com/pc/fallout3cheatscodes.html
+
+
+Es gibt nichts um alle gegner zu entfernen da missionen sonst unspielbar wären, daher wurde es nicht eingebaut. evtl kann man es modden oder es gibt sowas schpon
 
 
 
-
-Modding?? Womit?
 
 
 gibt es einen Cinematic/noHUD mod ?
