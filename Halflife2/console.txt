@@ -1,0 +1,35 @@
+Console öffnen:
+
+Geht unter x:\valve\Steam\SteamApps\Nickname\half-life 2\hl2\cfg\
+
+config.CFG öffnet ihr da muss stehen bind "'" "toggleconsole" ihr macht daraus bind "F11" "toggleconsole"
+
+Startet das spiel im spiel F11 Drücken und schon könnt ihr die console öffnen.
+
+
+
+
+noclip 	Clipping aus
+god 	Godmode
+notarget 	Gegner ignorieren dich
+
+maps 	Mapnamen anzeigen
+cl_drawhud 1/0 	HUD an/aus
+cl_showfps 1/0 	FPS anzeigen an/aus
+sv_gravity x 	Schwerkraft x einstellen
+
+impulse 101 	alle Waffen
+impulse 82 	Jeep erschaffen
+
+
+
+
+
+
+
+
+
+
+
+
+http://www.spieletipps.de/tipps-15134-half-life-2-cheats/
