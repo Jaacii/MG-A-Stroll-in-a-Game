@@ -1,0 +1,10 @@
+tgm - Godmod
+killall - tötet alle Gegner in Sichtweite
+tfc - Freie Kamera
+
+tdetect - (Toggle AI Detection) Gegener können einen nicht mehr sehen
+
+
+------------------------
+Optionen:
+-> Display -> HUD Opacity - HUD, etc. ausblenden
