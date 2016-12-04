@@ -10,8 +10,10 @@ Ingame orte um Filmen suchen			30min
 9.11 -> Github erstellt				30min
 15.11 -> Weitere Suche nach Befehlen		1Std
 	(Nachschauen welche Spiele sinnvoll sind)
+30.11 -> Gruppenbesprechung			1Std
 2.12 -> download und informierung zu Fallout Geck 2std
 	Bilderaufnahmen machen 			30min
+
 	
 
 
@@ -25,7 +27,7 @@ Planung:
 Mirrors Edge, Half Life, Bioshock, DeusEx ausprobieren
 Fallout Geck ausprobieren, sonst auch den von F4 oder Skyrim
 
-PDF Anleitung für F3 
+PDF Anleitung fÃ¼r F3 
 
 
-Momentanes Problem für MOD -> Kann man gegner manipulieren?? mit geck
+Momentanes Problem fÃ¼r MOD -> Kann man gegner manipulieren?? mit geck
