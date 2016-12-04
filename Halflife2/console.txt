@@ -1,3 +1,8 @@
+Weigert sich zu funktionieren und resettet sich. Höchstwahrscheinlich 
+durch steam
+
+
+
 Console öffnen:
 
 Geht unter x:\valve\Steam\SteamApps\Nickname\half-life 2\hl2\cfg\
