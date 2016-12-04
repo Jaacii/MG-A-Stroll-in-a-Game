@@ -1,0 +1,52 @@
+Warnung -> Man kann sich die Consolen befehle auf Tasten legen, aber scheinbar funktionieren
+diese nicht immer. Teilweise resettet sich die belegung oder reagiert nicht. 
+Momnetan sieht es eher danach aus als könnten wir mit Bioshock ein Video
+machen aber Tutorial wird schwer.
+Hatte es geschafft Hud auszuschalten, evtl geht es auch mit freecam oder dem freeze befehl
+, dann gingen videos gut
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+https://www.youtube.com/watch?v=pL01J_VN144
+http://bioshock.wikia.com/wiki/Console_Commands
+http://gametweaking.blogspot.de/2007/09/misc-console-commands.html
+Anleitungen zur console und commands  funktioniert nur manchmal ???
+(danach nicht steam den pc verändern lassen)
+
+
+
+Ghost 			- Man kann durch Wände gehen
+God 			- GODmode
+
+PlayersOnly		- freezed alles außer dem spieler
+IGReallyBigBucks	- geld
+KillViewedActor		- AI killen alle
+Killpawns		- AI im level killen
+FreeCamera		- 
+
+
+
+
+
+HideHUD			- evtl fehler weil speicher menü
+Togglesoundeffects	- macht alles strange. aber atmosspähre wird stark 
+ShowHUD
+
+Killall
+ToggleshowALS
+
+
+
+
+
+
+
+GiveWeapon ShockGame.GranateLauncher
+" ShockGame.GranateLauncher_FragGranate
+"_RPG
+_StickyGranate
+
+
+
+
+Modding?? Womit??
+Aggression off? Detection off??
