@@ -1,19 +1,19 @@
 					Console?	Mod möglich?		Andere Möglichkeien/Anmerkungen
 Assassin's Creed			?		?
-Bioshock				Ja		?			(Probiere ich aus)
+Bioshock				(Ja)		Nein			(Probiere ich aus)
 Crysis					?		?
 Dark Souls 1				Ja		?
-Deus Ex. Human Revolution		Ja		?			Programmdateien ändern für Konsole
+Deus Ex. Human Revolution		Ja		Nein			Programmdateien ändern für Konsole
 Fallout					Ja		Ja			leicht
 Far Cry					?		?
 Guild Wars 2 				?		?
-Half Life				Ja		Ja			(!)
+Half Life				(Ja)		(Ja)			(!)
 Mass Effect 				?		?
-Metro					Ja		?			Evtl Gegner ausschalten nicht möglich
+Metro					NICHT GEEIGNET			Evtl Gegner ausschalten nicht möglich
 Mirror's Edge				?		?			(!)	
 Ori and the Blind Forest		?		?
 Overwatch				?		?
-Oxenfree, Firewatch, Journey		?		?			
+Oxenfree, Firewatch, Journey		NICHT GEEIGNET			
 Subnautica				ja?		?
 The Elder Scrolls			Ja		Ja			leicht
 Tomb Raider				?		?
