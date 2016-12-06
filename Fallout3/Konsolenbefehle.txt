@@ -1,5 +1,30 @@
 ^  - Konsole öffnen
 
+tcl -> ghost modus
+tgm -> gott modus
+tm -> hud aus/an
+tfc -> freecam
+tmm 1 -> all mapmarker
+tcai -> combat ai aus
+tdetect -> toggle detect off
+
+tai -> all ai aus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 WICHTIG!!!
 Tcai   -> combat AI aus
