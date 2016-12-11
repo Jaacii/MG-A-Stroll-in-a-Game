@@ -1,13 +1,18 @@
 ^  - Konsole öffnen
 
-tcl -> ghost modus
 tgm -> gott modus
-tm -> hud aus/an
-tfc -> freecam
 tmm 1 -> all mapmarker
-tcai -> combat ai aus
 tdetect -> toggle detect off
 
+tm -> hud aus/an
+tfc -> freecam
+tcl -> ghost modus
+
+
+
+
+
+tcai -> combat ai aus  : BUG: Abgeschossene gegner werden verzerrt und hängen in der Luft, lieber tdetect nehmen
 tai -> all ai aus
 
 
@@ -17,11 +22,10 @@ tai -> all ai aus
 
 
 
-
-
-
-
-
+Weiteres:
+adv level - Level up
+player.additem 0000432c1 1     - Fatman
+player.additem 00020799 1      - Mini Atombomben
 
 
 
@@ -46,10 +50,7 @@ unlock - Türen öffnen [gibt es unlockAll? wäre hilfreich]
 DisableAllMines - Alle Minen werden deaktiviert
 
 
-Weiteres:
-adv level - Level up
-player.additem 0000432c1 1     - Fatman
-player.additem 00020799 1      - Mini Atombomben
+
 
 
 
