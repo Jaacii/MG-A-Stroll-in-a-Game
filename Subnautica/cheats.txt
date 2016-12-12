@@ -1,0 +1,27 @@
+http://subnautica.wikia.com/wiki/Debug_Console_Commands
+
+
+--------------------
+The console is an optional feature and is disabled by default. To activate it you need to press F3 and you'll see a checkbox ticked in the top left saying: "Disable Console". Press F8 to get a mouse cursor and uncheck the box to activate the console.
+2014-11-22 00002
+
+Pressing ~ brings up an input box to enter commands
+
+Once the console is enabled, press Enter, ~, Ø or Ö, depending on the keyboard, and type one of the commands above. Whenever you restart the game, you need to press one of the overlay keys first (e.g. F3) before pressing the console key
+
+It is recommended to close all overlays before typing a command, as entering a number does change the game settings on some overlays (e.g. on the F3 overlay). 
+-------------------------------
+
+öffnen mit enter, ~ oder ö
+
+
+oxygen    -> unendlich luft
+nosurvival - > hunger etc aus
+creative  -> gamemode
+freedom -> gamemode
+
+nocost  -> keine baukosten
+noenergy -> autos etc brauchen keine energie 
+unlockall -> all blueprints
+
+invisible   -> no detection
