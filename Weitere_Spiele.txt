@@ -1,0 +1,69 @@
+Overwatch:
+
+Keine Gegner -> custom game    (skirmish hatte ich genommen)
+Hud aus -> Alt + y
+Waffe kann nicht ausgeblendet werden
+
+------------------------------------------
+Tomb Raider: -> keine console
+
+------------------------------------------
+Mass Effect:
+console aktivieren
+Documents/bioware/mass effect /confic
+
+BIOinput.ini öffnen mit notepad und beim punkt [ENGINE.CONSOLE] nach dem absatz "Historybot" 
+den Absatz: Consolekey=Tilde    einfügen.
+
+ingame ´ drücken zum öffnen.     
+
+scheinbar klappt das auch mit steam
+
+PROBLEM: es gibt keine Gegner manipulierenden Befehle
+
+Man könnte aber die Freecam nutzen ohne angegriffen zu werden
+
+
+
+ToggleFlyCam - Free Cam
+Set BioCameraBehaviorFreem_fMovementScalar float - Freecam geschwindigkeit erhöhen
+
+showHUD/hideHUD - HUD an/aus
+Show Scaleform - HUD großteils aus, einiges bleibt
+
+------------------------------------------
+
+Deus Ex Human Revolution:
+Konsole aktivieren: 
+Dokumente/DeusEx/System
+öffne User.ini
+Ersetze alle "Tilde=" durch "Tilde=Type"
+
+ingame lässt sich dann die Konsole mit ~ öffnen
+
+Mache eine Spieleverknüpfung und gehe auf eigendschaften. Unter Absatz "Ziel" "-hax0r" hinter das eigendliche Ziel setzen
+oder in der User.ini  "bCheatsEnabled=True" in den [DeusEx.DeusExGameInfo] Absatz setzen
+
+allaugs - alle fähigkeiten
+playersonly - freezed alles auser dem Spieler -> Gegner sind so aus
+god - godmode
+
+Problem: Bossgegner
+--------------------------------------------
+
+Half life 
+Console freischalten:
+Verknüpfung erstellen und "-DEV ¿TOCONSOLE" beim Ziel hintersetzen
+
+Ingame dann ~ drücken um dieKonsole zu öffnen
+
+/notarget - Gegner ignorieren den Spieler
+/god - god mode
+/impulse 101 - alle waffen
+--------------------------------------------
+Far Cry	
+http://www.cheatcc.com/pc/farcry.html
+http://www.gamesradar.com/far-cry/cheats/
+Config cheat -> verknüpft tasten mit cheats. 
+Kein cheat b etrifft gegner
+

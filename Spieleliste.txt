@@ -3,23 +3,24 @@ Assassin's Creed			?		?
 Bioshock				(Ja)		Nein			(Probiere ich aus)
 Crysis					?		?
 Dark Souls 1				Ja		?
-Deus Ex. Human Revolution		Ja		Nein			Programmdateien ändern für Konsole
+Deus Ex. Human Revolution		(Ja)		Nein			Programmdateien ändern für Konsole
 Fallout					Ja		Ja			leicht
-Far Cry					?		?
+Far Cry					-		-
 Guild Wars 2 				?		?
-Half Life				(Ja)		(Ja)			(!)
-Mass Effect 				?		?
+Half Life				(Ja)		(Ja)			
+Mass Effect 				(ja)		-
 Metro					NICHT GEEIGNET			Evtl Gegner ausschalten nicht möglich
-Mirror's Edge				?		?			(!)	
-Ori and the Blind Forest		?		?
-Overwatch				?		?
+Mirror's Edge				-		-			
+Ori and the Blind Forest		-		-
+Overwatch				-		-			nur HUD ausschaltbar
+Oxenfree, Firewatch, Journey		NICHT GEEIGNET				wäre doof da man nichts verändern müsste, höchstens als beispiel video zu was wir die anderen spiele machen wollen
 Oxenfree, Firewatch, Journey		NICHT GEEIGNET			
-Subnautica				ja?		?
+Subnautica				ja		?
 The Elder Scrolls			Ja		Ja			leicht
-Tomb Raider				?		?
+Tomb Raider				-		-
 Wolfenstein: The new Order		?		?
 
-(!) - will ich nachrecherchieren
+
 
 
 Wikitext: (Um nicht extra kucken zu müssen)
