@@ -1,0 +1,38 @@
+http://dontstarve.wikia.com/wiki/Console/Commands
+
+Spiel einmal gestartet haben (steam). Dann unter 
+Eigene Dateien/Dokumente/Klei/donotstarve  Settings öffnen
+
+Dort das false bei "Enable console = false" zu true ändern.
+
+Ingame unter controlls die debug konsole setzen und öffnen:
+
+
+!!!WELTEINSTELLUNGEN
+Monster alle aus,
+Summer only
+Day Only
+!!
+
+
+god mode			!!
+c_godmode()
+
+Hide/Show HUD			!!
+GetPlayer().HUD:Hide()
+GetPlayer().HUD:Show()
+
+Sanity aufs maximum setzen, sonst wird der spieler von schatten verfolgt
+GetPlayer().components.sanity:SetMax(value)
+oder
+c_setsanity(100)		!!	
+
+kein Hunger
+GetPlayer().components.hunger:Pause(true)
+
+
+
+alle bauoptionen
+GetPlayer().components.builder:GiveAllRecipes()
+
+cheatfenster mit ctrl + l schließen

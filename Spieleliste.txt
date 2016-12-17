@@ -1,3 +1,23 @@
+Erreichte Spieleliste					Console?	Mod möglich?		Andere Möglichkeien/Anmerkungen
+Bioshock				(Ja)		Nein			(Probiere ich aus)
+Dark Souls 1				Ja		?
+Deus Ex. Human Revolution		(Ja)		Nein			Programmdateien ändern für Konsole
+Fallout					Ja		Ja			leicht			
+Half Life				(Ja)		(Ja)			
+Mass Effect 				(ja)		-
+Metro					NICHT GEEIGNET			Evtl Gegner ausschalten nicht möglich
+Overwatch				?		-			nur HUD ausschaltbar
+Subnautica				ja		?
+The Elder Scrolls			JA		JA		leicht
+
+
+Die Recherchesachen wo wir nur herausgefunden wie es geht aber es nicht geschafft haben lassen sich 
+als PDF zusamentragen, dann können wir sie in der Liste lassen
+
+
+
+Alt
+
 					Console?	Mod möglich?		Andere Möglichkeien/Anmerkungen
 Assassin's Creed			?		?
 Bioshock				(Ja)		Nein			(Probiere ich aus)
